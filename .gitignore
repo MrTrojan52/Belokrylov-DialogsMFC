@@ -1,0 +1,5 @@
+Debug/*
+Release/*
+/.vs/*
+DialogsMFC/Debug/*
+DialogsMFC/Release/*
